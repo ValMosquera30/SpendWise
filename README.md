@@ -19,14 +19,19 @@ Desarrollar un sistema web que facilite el registro, organización y seguimiento
 
 **4.Equipo de trabajo**
 
-Jairo Zapata.
-Nicolás Galindo Valdiri.
-Valentina Mosquera.
+Jairo Zapata
+
+Nicolás Galindo Valdiri
+
+Valentina Mosquera
+
 
 **5. Herramientas de trabajo**
 
 -GitHub: control de versiones y almacenamiento del código.
+
 -Jira: gestión y seguimiento de actividades.
+
 -Visual Studio Code: entorno de desarrollo.
 
 **6. Estado del proyecto**
