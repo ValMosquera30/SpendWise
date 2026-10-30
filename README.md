@@ -11,11 +11,17 @@ Desarrollar un sistema web que facilite el registro, organización y seguimiento
 **3.Funcionalidades propuestas**
 
 -Registro de ingresos.
+
 -Registro de gastos.
+
 -Clasificación de movimientos por categorías.
+
 -Consulta del historial de movimientos.
+
 -Visualización de resúmenes financieros.
+
 -Filtros por periodos de tiempo.
+
 
 **4.Equipo de trabajo**
 
