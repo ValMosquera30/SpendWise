@@ -1,45 +1,73 @@
-**SpendWise — Sistema de Control de Gastos Personales**
+# SpendWise — Sistema de Control de Gastos Personales
 
-**1.Descripción del proyecto**
+## 1. Descripción del proyecto
 
-SpendWise es un proyecto de aplicación web orientado al control de gastos personales. Su propósito es permitir que los usuarios organicen sus finanzas mediante el registro de ingresos y gastos, la clasificación de movimientos y la consulta de información financiera.
+SpendWise es una aplicación web orientada al control y la administración de gastos personales. Su propósito es facilitar la organización de las finanzas mediante el registro de ingresos y gastos, la clasificación de movimientos y la consulta de información financiera.
 
-**2.Objetivo**
+El sistema busca ofrecer a los usuarios una herramienta sencilla que les permita conocer sus movimientos económicos, llevar un seguimiento de sus gastos y mejorar la organización de su dinero.
 
-Desarrollar un sistema web que facilite el registro, organización y seguimiento de los movimientos financieros personales.
+## 2. Objetivo
 
-**3.Funcionalidades propuestas**
+Desarrollar un sistema web que facilite el registro, la organización y el seguimiento de los movimientos financieros personales, proporcionando información que permita a los usuarios consultar sus ingresos, gastos y balance.
 
--Registro de ingresos.
+## 3. Funcionalidades del sistema
 
--Registro de gastos.
+### Funcionalidades implementadas
 
--Clasificación de movimientos por categorías.
+- Registro de usuarios.
+- Inicio de sesión.
+- Cierre de sesión.
+- Registro de ingresos personales.
+- Registro de gastos personales.
 
--Consulta del historial de movimientos.
+### Funcionalidades pendientes de desarrollo
 
--Visualización de resúmenes financieros.
+- Clasificación de movimientos por categorías.
+- Consulta del historial de movimientos.
+- Visualización de resúmenes financieros.
+- Filtros de movimientos por períodos de tiempo.
+- Visualización de gráficas financieras.
+- Edición y eliminación de movimientos.
 
--Filtros por periodos de tiempo.
+## 4. Equipo de trabajo
 
+- Jairo Zapata.
+- Nicolás Galindo Valdiri.
+- Valentina Mosquera.
 
-**4.Equipo de trabajo**
+## 5. Herramientas y tecnologías
 
-Jairo Zapata
+### Tecnologías de desarrollo
 
-Nicolás Galindo Valdiri
+- **PHP:** desarrollo de la lógica del servidor.
+- **MySQL:** almacenamiento y gestión de la información.
+- **HTML5:** estructura de las páginas web.
+- **CSS3:** diseño y presentación de la interfaz.
+- **JavaScript:** interactividad y validaciones.
 
-Valentina Mosquera
+### Herramientas de trabajo
 
+- **GitHub:** almacenamiento del código fuente y control de versiones.
+- **Jira:** gestión de historias de usuario, tareas y sprints.
+- **Visual Studio Code:** entorno de desarrollo.
+- **XAMPP:** entorno local para ejecutar la aplicación y administrar la base de datos.
 
-**5. Herramientas de trabajo**
+## 6. Estado actual del proyecto
 
--GitHub: control de versiones y almacenamiento del código.
+El proyecto cuenta con una primera versión funcional desarrollada en PHP y MySQL, ejecutada en un entorno local mediante XAMPP.
 
--Jira: gestión y seguimiento de actividades.
+Actualmente se encuentran implementadas las funcionalidades de registro de usuarios, inicio y cierre de sesión, registro de ingresos y registro de gastos.
 
--Visual Studio Code: entorno de desarrollo.
+Las demás funcionalidades se encuentran contempladas en el Product Backlog y se desarrollarán progresivamente de acuerdo con la planificación de los sprints.
 
-**6. Estado del proyecto**
+## 7. Gestión del proyecto
 
-El proyecto se encuentra en su etapa Media de planificación y organización. Las funcionalidades descritas corresponden a los objetivos propuestos y están pendientes de desarrollo e implementación.
+El equipo utiliza Jira para organizar las historias de usuario, establecer prioridades y realizar el seguimiento de las actividades mediante la metodología Scrum.
+
+GitHub se utiliza para administrar el código fuente y facilitar la colaboración entre los integrantes mediante ramas, commits y Pull Requests.
+
+## 8. Repositorio
+
+Este repositorio contiene los archivos fuente y la documentación correspondiente al desarrollo de SpendWise.
+
+El proyecto se encuentra en proceso de desarrollo y sus funcionalidades se irán incorporando conforme avance el trabajo del equipo.
