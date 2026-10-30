@@ -42,4 +42,4 @@ Valentina Mosquera
 
 **6. Estado del proyecto**
 
-El proyecto se encuentra en su etapa inicial de planificación y organización. Las funcionalidades descritas corresponden a los objetivos propuestos y están pendientes de desarrollo e implementación.
+El proyecto se encuentra en su etapa Media de planificación y organización. Las funcionalidades descritas corresponden a los objetivos propuestos y están pendientes de desarrollo e implementación.
