@@ -32,7 +32,7 @@ Desarrollar un sistema web que facilite el registro, la organización y el segui
 ## 4. Equipo de trabajo
 
 - Jairo Zapata.
-- Nicolás Galindo Valdiri.
+- Nicolas Galindo Valdiri.
 - Valentina Mosquera.
 
 ## 5. Herramientas y tecnologías
